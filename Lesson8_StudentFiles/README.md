@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 8, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Fabian Jones)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Even though this is the last assignment, I truly enjoyed it. I learned a bit about json and how it is used.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
