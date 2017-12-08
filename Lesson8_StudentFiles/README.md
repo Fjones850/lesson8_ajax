@@ -13,10 +13,9 @@ LIS 2360:  Web Application Development
 (Even though this is the last assignment, I truly enjoyed it. I learned a bit about json and how it is used.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://fjones850.github.io/lesson8_ajax/Lesson8_StudentFiles/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Reading through the Seminole connection pdf, I learned about what an ajax is and how its used to create better quality applications.)
+2. (The JSON defintion was insightful because of it being an extension of Javascript, which we have gone through over the past couple of lessons.)
+3. (Another lesson that was helpful was learning what was an API key. I found it interesting that it is used for authentification, which is good for legality issues.)
